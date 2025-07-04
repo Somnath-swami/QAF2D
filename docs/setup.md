@@ -36,7 +36,7 @@ pip install flash-attn==0.2.2
 **d. Clone QAF2D.**
 
 ```
-git clone https://github.com/yzf99/QAF2D
+git clone https://github.com/nullmax-vision/QAF2D.git
 ```
 
 **e. Install mmdet3d.**
